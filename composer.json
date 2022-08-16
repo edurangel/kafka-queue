@@ -1,0 +1,16 @@
+{
+    "name": "erangel/kafka-queue",
+    "require": {
+        "laravel/framework": "^8.83"
+    },
+    "autoload": {
+        "psr-4": {
+            "Erangel\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduardo Rangel"
+        }
+    ]
+}
